@@ -39,17 +39,22 @@ bc installed for floating-point arithmetic (sudo apt install bc on Debian/Ubuntu
    ```bash
    0 8 * * * /home/username/automated_system_report.sh
 ```
-
+---
 
 ## Usage
+
 ### run manually
 ```baah
 ./automated_system_report.sh
 ```
+---
 
 # 🧑‍💻 Author
+
 Ajima Fabian
+
 Email: ajimafabian18@gmail.com
+
 GitHub: https://github.com/Ajima-Fabian⁠�
 
 
