@@ -55,7 +55,7 @@ Ajima Fabian
 
 Email: ajimafabian18@gmail.com
 
-GitHub: https://github.com/Ajima-Fabian⁠�
+GitHub: https://github.com/Ajima-Fabian/Ajima-Fabian
 
 
 ## 📜 License
